@@ -19,7 +19,7 @@ Once everything is working, create a git repository of the same name. Then, loca
 git init  
 git add --all  
 git commit -m "first commit"  
-git remote add origin git@github.com:Potato83/*themename*.git  
+git remote add origin git@github.com:samvipond/*themename*.git  
 git push -u origin master  
 
 
