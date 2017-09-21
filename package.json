@@ -1,0 +1,31 @@
+{
+  "name": "wdemo",
+  "version": "0.1.0",
+  "devDependencies": {
+    "autoprefixer": "^6.7.2",
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-modernizr": "^1.0.2",
+    "postcss-hexrgba": "^0.2.1",
+    "postcss-import": "^9.1.0",
+    "postcss-mixins": "^5.4.1",
+    "postcss-nested": "^1.0.0",
+    "postcss-simple-vars": "^3.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "jquery-smooth-scroll": "^2.1.2",
+    "lazysizes": "^3.0.0",
+    "normalize.css": "^5.0.0",
+    "picturefill": "^3.0.2",
+    "waypoints": "^4.0.1"
+  }
+}
